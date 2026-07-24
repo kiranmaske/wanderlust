@@ -1,4 +1,3 @@
-# wanderlust
 # Wanderlust
 
 A travel listing web application built using Node.js, Express.js, MongoDB, and Mongoose.
